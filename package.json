@@ -1,0 +1,1 @@
+{\n  "name": "prompt-engineering-hub",\n  "version": "1.0.0",\n  "scripts": {\n    "dev": "next dev",\n    "build": "next build",\n    "start": "next start"\n  },\n  "dependencies": {\n    "next": "15.x",\n    "react": "17.x",\n    "react-dom": "17.x",\n    "next-auth": "latest",\n    "mongodb": "latest"\n  }\n}
